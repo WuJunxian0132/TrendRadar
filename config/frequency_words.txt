@@ -1,6 +1,3 @@
-特斯拉
-马斯克
-
 微软
 Microsoft
 
@@ -17,7 +14,6 @@ deepmind
 
 chatgpt
 openai
-sora
 
 claude
 Anthropic
@@ -31,13 +27,7 @@ ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
-
-国产
 中国
-
 美国
 日本
 韩国
