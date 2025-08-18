@@ -1,16 +1,5 @@
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
@@ -31,12 +20,14 @@ ai
 美国
 日本
 韩国
-
 科技
 
-月球
-登月
-火星
 宇宙
-飞船
-航空
+
+游戏
+主机游戏
+
+任天堂
+Switch
+
+Steam
